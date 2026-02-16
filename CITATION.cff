@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Weiß
+    given-names: Christian H.
+    orcid: https://orcid.org/0000-0001-8739-6631
+title: "Complexity"
+version: 1.0.0
+date-released: 2025-12-15
+url: https://github.com/cnweiss/Complexity
